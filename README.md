@@ -4,11 +4,11 @@
 
 A curated list of awesome tools, frameworks, and resources for web research data collection, including tools that support observational methods, experimental interventions on the web, and simulations of the web for experiments.
 
-*Why does this list exist?*
+**Why does this list exist?**
 
 To quote [this paper](https://osf.io/preprints/psyarxiv/wvfjq_v1):
 
-> researchers are constantly reinventing the wheel, building methodological frameworks and technical tools that have already been built in the same or at least similar ways
+> Researchers are constantly reinventing the wheel, building methodological frameworks and technical tools that have already been built in the same or at least similar ways
 
 ## Contents
 
