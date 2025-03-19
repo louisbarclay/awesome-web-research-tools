@@ -71,15 +71,24 @@ To quote [this paper](https://osf.io/preprints/psyarxiv/wvfjq_v1):
 
 - Fresco - Network interviews in the web browser ([GitHub](https://github.com/complexdatacollective/Fresco))
 - Automated Conversation Kit - Open source platform for creating automated conversations
-- [Django Dialog Engine](https://github.com/audacious-software/Django-Dialog-Engine) - Simple messaging libraries for Django. ([GitHub](https://github.com/audacious-software/Django-Dialog-Engine))
-- [HealthySMS](https://mental.jmir.org/2024/1/e49317) - Messaging-based health intervention platform (no longer maintained)
+  - [Django Dialog Engine](https://github.com/audacious-software/Django-Dialog-Engine) - Automated dialog / chatbot engine for Django. ([GitHub](https://github.com/audacious-software/Django-Dialog-Engine))
+  - [Simple Messaging](https://github.com/audacious-software/Simple-Messaging-Django) - Collection of Django apps and libraries for constructing text-messaging interventions. ([GitHub](https://github.com/audacious-software/Simple-Messaging-Django))
+    - [Django Dialog Engine support](https://github.com/audacious-software/Simple-Messaging-Dialog-Engine-Support)
+    - [Twilio support](https://github.com/audacious-software/Simple-Messaging-Django-Twilio)
+    - [Azure support](https://github.com/audacious-software/Simple-Messaging-Django-Azure)
+    - [Local loopback channel support](https://github.com/audacious-software/Simple-Messaging-Django-Loopback)
+    - [Multi-channel support](https://github.com/audacious-software/Simple-Messaging-Switchboard)
+- [HealthySMS](https://mental.jmir.org/2024/1/e49317) - Messaging-based health intervention platform (Commercial license through UC Berkeley)
 - [Hive Mechanic](https://www.hivemechanic.org/) - Platform for creating place-based experiences and games ([GitHub](https://github.com/bdcheck))
-- [Passive Data Kit](https://github.com/audacious-software/PassiveDataKit-Django) - Framework for collecting passive data from multiple sources. ([GitHub](https://github.com/audacious-software/PassiveDataKit-Django))
+- [Passive Data Kit](https://passivedatakit.org/) (PDK) - Framework for collecting passive data from multiple sources.
+  - [Passive Data Kit Django](https://github.com/audacious-software/PassiveDataKit-Django) - Django app for building cloud data ingestion server. ([GitHub](https://github.com/audacious-software/PassiveDataKit-Django))
+  - [Passive Data Kit Django: External Data](https://github.com/audacious-software/Passive-Data-Kit-External-Data) - PDK extension for collecting data donations ([GitHub](https://github.com/audacious-software/Passive-Data-Kit-External-Data))
+  - [Passive Data Kit Django: iOS](https://github.com/audacious-software/PassiveDataKit-iOS) - Framework for collecting data from iOS devices ([GitHub](https://github.com/audacious-software/PassiveDataKit-iOS))
+  - [Passive Data Kit Django: Android](https://github.com/audacious-software/PassiveDataKit-Android) - Library for collecting data from Android devices ([GitHub](https://github.com/audacious-software/PassiveDataKit-Android))
 - [AWARE Framework](http://www.awareframework.com/) - Mobile sensing framework for data collection ([GitHub](https://github.com/denzilferreira/aware-client)) (no longer maintained)
 - [Detoxify](https://github.com/unitaryai/detoxify) - Tool for toxicity detection in text. ([GitHub](https://github.com/unitaryai/detoxify))
 - [Various tools by Kaspar Welbers](https://github.com/kasperwelbers) - Various computational text analysis tools ([GitHub](https://github.com/kasperwelbers))
-- [Passive Data Kit](https://passivedatakit.org/) - Multi-platform framework for robust passive data collection ([GitHub](https://github.com/audacious-software))
-- Phone Dashboard - Open source framework for iOS and Android app usage gathering and behavioral interventions
+- Phone Dashboard - Open source app for Android app usage gathering and behavioral interventions. (iOS version is in the middle of its first field study - will be posted soon.) ([GitHub](https://github.com/Phone-Dashboard/Phone-Dashboard-Android))
 - [Purple Robot](https://pmc.ncbi.nlm.nih.gov/articles/PMC4129186/) - Sensing and intervention platform for Android. ([GitHub](https://github.com/cbitstech/Purple-Robot)) (no longer maintained)
 
 ## Organizations
