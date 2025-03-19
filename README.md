@@ -27,7 +27,8 @@ To quote [this paper](https://osf.io/preprints/psyarxiv/wvfjq_v1):
 ## Tools
 
 ### Observational Tools
-Many possible sub-sections or sorting methods - e.g. open source vs commerical; actively manintained / date of last commit. Are APIs tools?
+
+*Note: many possible sub-sections or sorting methods - e.g. open source vs. commercial; actively maintained/date of last commit. Are APIs tools?*
 
 - [AlgoTransparency](https://www.algotransparency.org/) - Data on algorithmic recommendations from YouTube and more (no longer maintained)
 - [Blacklight](https://themarkup.org/blacklight) - Real-time website privacy inspector [GitHub](https://github.com/the-markup/blacklight-collector)
