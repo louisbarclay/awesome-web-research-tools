@@ -43,7 +43,7 @@ To quote [this paper](https://osf.io/preprints/psyarxiv/wvfjq_v1):
 - [Mozilla Rally](https://github.com/mozilla-rally) - Data donation platform ([GitHub](https://github.com/mozilla-rally)) (no longer maintained)
 - [NodeXL](https://nodexl.com/) - Network analysis and visualization software
 - [Perspective API](https://perspectiveapi.com/) - Content classification to monitor health of online conversations ([GitHub](https://github.com/conversationai/perspectiveapi))
-- [RecAlign](https://www.recalign.com/) - Platform for studying recommendation systems
+- [RecAlign](https://www.recalign.com/) - Platform for studying recommendation systems ([Github](https://github.com/recalign/RecAlign))
 - Social listening tools e.g. [Brandwatch](https://brandwatch.com/) for monitoring social media (expensive)
 - [TikTok Research API](https://developers.tiktok.com/products/research-api/) - Official research API (restrictive terms and conditions)
 - [Understanding.Social](https://understanding.social/) - Browser extension that captures Facebook content to recreate news feeds for experiments (by [Who Targets Me](https://whotargets.me/en/))
@@ -58,7 +58,7 @@ To quote [this paper](https://osf.io/preprints/psyarxiv/wvfjq_v1):
 - [FeedMonitor](https://github.com/StanfordHCI/FeedMonitor) - Tool for monitoring and manipulating social media feeds ([GitHub](https://github.com/StanfordHCI/FeedMonitor))
 - [CivilServant](https://github.com/citizensandtech/CivilServant) - Platform for running A/B tests in online communities ([GitHub](https://github.com/citizensandtech/CivilServant))
 - [Mozilla YouTube RegretsReporter](https://foundation.mozilla.org/youtube/regretsreporter/) - Browser extension for YouTube algorithm research ([GitHub](https://github.com/mozilla-extensions/regrets-reporter)) (no longer maintained)
-- [RecAlign](https://www.recalign.com/) - Browser extension that changes recommendations on social media with LLMs
+- [RecAlign](https://www.recalign.com/) - Browser extension that changes recommendations on social media with LLMs ([Github](https://github.com/recalign/RecAlign))
 - [Webmunk](https://www.webmunk.org/) - Browser extension for both data gathering and intervention studies ([GitHub](https://github.com/Webmunk-Project))
 - [Prosocial Ranking Challenge browser extension](https://humancompatible.ai/news/2024/01/18/the-prosocial-ranking-challenge-60000-in-prizes-for-better-social-media-algorithms/) - Browser extension for algorithm research (not public)
 
