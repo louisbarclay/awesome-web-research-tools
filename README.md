@@ -63,6 +63,7 @@ To quote [this paper](https://osf.io/preprints/psyarxiv/wvfjq_v1):
 - [Prosocial Ranking Challenge browser extension](https://humancompatible.ai/news/2024/01/18/the-prosocial-ranking-challenge-60000-in-prizes-for-better-social-media-algorithms/) - Browser extension for algorithm research (not public)
 
 ### Experimental Interventions on Simulated Websites
+- [Deliberate Lab](https://pair-code.github.io/deliberate-lab/) - Chat platform with LLM moderation.
 - [The Truman Platform](https://github.com/cornellsml/truman_2023) - Social media simulation platform ([GitHub](https://github.com/cornellsml/truman_2023))
 - [YourFeed](https://www.media.mit.edu/projects/yourfeed/overview/) - Simulated news feed environment for lab experiments (no longer maintained)
 - [Social Media TestDrive](https://socialmediatestdrive.org/) - Social media simulation for educational purposes
