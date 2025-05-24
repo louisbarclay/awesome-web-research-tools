@@ -67,6 +67,7 @@ To quote [this paper](https://osf.io/preprints/psyarxiv/wvfjq_v1):
 - [YourFeed](https://www.media.mit.edu/projects/yourfeed/overview/) - Simulated news feed environment for lab experiments (no longer maintained)
 - [Social Media TestDrive](https://socialmediatestdrive.org/) - Social media simulation for educational purposes
 - [PAIR code](https://github.com/pair-code) - Set of tools for testing human-AI interactions from Google's People+AI Research (PAIR) Initiative
+- [Deliberate Lab](https://pair-code.github.io/deliberate-lab/) - Social media simululation with integrated AI moderator
 
 ### Other Tools
 
