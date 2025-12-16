@@ -42,6 +42,7 @@ To quote [this paper](https://osf.io/preprints/psyarxiv/wvfjq_v1):
 - [Meta Content Library](https://www.facebook.com/ads/library/) - Official transparency tool for content on Meta platforms
 - [Mozilla Rally](https://github.com/mozilla-rally) - Data donation platform ([GitHub](https://github.com/mozilla-rally)) (no longer maintained)
 - [NodeXL](https://nodexl.com/) - Network analysis and visualization software
+- [Open Terms Archive](https://opentermsarchive.org/en/) - Track the terms of digital services in specific industries, languages and jurisdictions ([GitHub](https://github.com/louisbarclay/awesome-web-research-tools/issues/created_by/url))
 - [Perspective API](https://perspectiveapi.com/) - Content classification to monitor health of online conversations ([GitHub](https://github.com/conversationai/perspectiveapi))
 - [RecAlign](https://www.recalign.com/) - Platform for studying recommendation systems ([Github](https://github.com/recalign/RecAlign))
 - Social listening tools e.g. [Brandwatch](https://brandwatch.com/) for monitoring social media (expensive)
