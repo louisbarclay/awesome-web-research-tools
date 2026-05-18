@@ -53,6 +53,7 @@ To quote [this paper](https://osf.io/preprints/psyarxiv/wvfjq_v1):
 - [Who Targets Me](https://whotargets.me/en/) - Browser extension tracking political advertising ([GitHub](https://github.com/WhoTargetsMe/Who-Targets-Me))
 - [Who Targets Me GitHub](https://github.com/WhoTargetsMe/Who-Targets-Me) - Source code for the Who Targets Me extension. ([GitHub](https://github.com/WhoTargetsMe/Who-Targets-Me))
 - [X API](https://developer.twitter.com/en/docs/twitter-api) - API for accessing X (formerly Twitter) data (expensive)
+- [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - OpenClaw tweet scraper for X/Twitter research workflows, including search tweets, search tweet replies, follower export, user lookup, media workflows, monitors, and webhooks via Xquik.
 - [Django URL Shortener](https://github.com/audacious-software/Django-URL-Shortener) - Django app for creating a self-hosted URL shortening service with click tracking ([GitHub](https://github.com/audacious-software/Django-URL-Shortener))
 
 ### Experimental Interventions on the Web
