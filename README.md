@@ -31,7 +31,7 @@ To quote [this paper](https://osf.io/preprints/psyarxiv/wvfjq_v1):
 *Note: many possible sub-sections or sorting methods - e.g. open source vs. commercial; actively maintained/date of last commit. Are APIs tools?*
 
 - [AlgoTransparency](https://www.algotransparency.org/) - Data on algorithmic recommendations from YouTube and more (no longer maintained)
-- [Arcmira](https://arcmira.com) - Search indexed YouTube transcripts for timestamped passages and speaker appearances ([API documentation](https://arcmira.com/docs)); coverage is partial and access depends on plan.
+- [Arcmira](https://arcmira.com) - YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers. [API documentation](https://arcmira.com/docs); coverage is partial and access depends on plan.
 - [Blacklight](https://themarkup.org/blacklight) - Real-time website privacy inspector [GitHub](https://github.com/the-markup/blacklight-collector)
 - [EnviroReport](https://www.chicago-cachet.org/enviroreport/) - Data donation for crowdsourcing environmental incidents (free but closed source)
 - [HabitLab](https://habitlab.github.io/) - Browser extension with interventions for online habits ([GitHub](https://github.com/habitlab/habitlab)) (no longer maintained)
